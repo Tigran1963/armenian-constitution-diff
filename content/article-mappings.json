@@ -1,0 +1,16 @@
+{
+  "sourceSha256": {"old": "83f645b077996c172a0e0200c51dc361e45eef5c6d1dd490355a6f3befc66972", "new": "d5e6c7cc00325e87e60c5249b1a2a02a4506c857586c473482870f1ff0cf063e"},
+  "mappings": [
+    {"old": "old-preamble", "new": ["new-preamble"], "status": "changed", "evidence": "preamble"},
+    {"old": "old-article-1", "new": ["new-article-2"], "status": "changed", "evidence": "state"},
+    {"old": "old-article-2", "new": ["new-article-3", "new-article-4"], "status": "changed", "evidence": "sovereignty", "scope": "partial"},
+    {"old": "old-article-4", "new": ["new-article-5"], "status": "changed", "evidence": "separation", "scope": "partial"},
+    {"old": "old-article-13", "new": ["new-article-8"], "status": "changed", "evidence": "foreignPolicy"},
+    {"old": "old-article-16", "new": ["new-article-11"], "status": "moved", "evidence": "family"},
+    {"old": "old-article-17", "new": ["new-article-14"], "status": "changed", "evidence": "religion"},
+    {"old": "old-article-18", "new": ["new-article-15"], "status": "changed", "evidence": "church"},
+    {"old": "old-article-19", "new": ["new-article-13"], "status": "changed", "evidence": "diaspora"},
+    {"old": "old-article-21", "new": ["new-article-16"], "status": "changed", "evidence": "symbols"},
+    {"old": "old-article-22", "new": ["new-article-18"], "status": "moved", "evidence": "capital"}
+  ]
+}
